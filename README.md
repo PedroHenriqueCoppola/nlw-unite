@@ -1,7 +1,7 @@
-<h1 align="center"> NLW Expert </h1>
+<h1 align="center"> NLW Unite </h1>
 
 <p align="center">
-Projeto construído na 14º edição do evento Next Level Week da Rocketseat. 🚀🔥
+Projeto construído na 15º edição do evento Next Level Week da Rocketseat. 🚀🔥
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@ Projeto construído na 14º edição do evento Next Level Week da Rocketseat. �
 <br>
 
 <p align="center">
-  <img alt="site preview" src="./assets/screenshot.png" width="100%">
+  <img alt="site preview" src="./src/assets/preview.png" width="100%">
 </p>
 
-> Trilha HTML, CSS & JS
+> Trilha React
 
-A trilha HTML, CSS & JS do evento abrange as tecnologias básicas do desenvolvimento web.
+A trilha React do evento abrange várias tecnologias front-end. Nessa trilha, também há uma conexão com um banco de dados que traz dados fictícios para a tabela.
 
 ## 🚀 Tecnologias
 
@@ -34,12 +34,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tailwind CSS
 - Node.js
 
-<img src="./src/assets/html5.svg" alt="html5" width="40" height="40"/> <img src="./src/assets/css3.svg" alt="css3" width="40" height="40"/> <img src="./src/assets/figma.svg" alt="figma" width="40" height="40"/> <img src="./src/assets/javascript.svg" alt="javascript" width="40" height="40"/> <img src="./src/assets/git.svg" alt="git" width="40" height="40"/> <img src="./src/assets/github.svg" alt="github" width="40" height="40"/> <img src="./src/assets/react.svg" alt="react" width="40" height="40"/> <img src="./src/assets/typescript.svg" alt="typescript" width="40" height="40"/> <img src="./src/assets/tailwind.svg" alt="tailwind" width="40" height="40"/> <img src="./src/assets/nodejs.svg" alt="nodejs" width="40" height="40"/>
+<img src="./src/assets/html5.svg" alt="html5" width="40" height="40"/> <img src="./src/assets/css3.svg" alt="css3" width="40" height="40"/> <img src="./src/assets/figma.svg" alt="figma" width="40" height="40"/> <img src="./src/assets/js.svg" alt="javascript" width="40" height="40"/> <img src="./src/assets/git.svg" alt="git" width="40" height="40"/> <img src="./src/assets/github.svg" alt="github" width="40" height="40"/> <img src="./src/assets/react.svg" alt="react" width="40" height="40"/> <img src="./src/assets/typescript.svg" alt="typescript" width="40" height="40"/> <img src="./src/assets/tailwind.svg" alt="tailwind" width="40" height="40"/> <img src="./src/assets/nodejs.svg" alt="nodejs" width="40" height="40"/>
 
 
 ## 💻 Projeto
 
-Este projeto simples foi criado com o objetivo de desenvolver um formulário com contador de acertos, tendo o tema do formulário como totalmente flexível. A utilização das tecnologias é baseada nas linguagens de programação mais básicas do desenvolvimento web.
+Este projeto foi criado com o objetivo de desenvolver uma tabela que mostra os dados pessoais de participantes (seja de um evento ou de funcionários de uma empresa, por exemplo).
 
 ## 🔗 Links
 
